@@ -3,73 +3,106 @@
 <h3 align="center">💻 Full Stack Developer | 🎨 UI Designer</h3>
 
 <p align="center">
-  🚀 I build modern, responsive, and scalable web applications
+  🚀 I build modern, responsive & clean web apps
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;UI+Designer;Always+Learning+New+Things;Building+Real+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7C600&center=true&vCenter=true&lines=Full+Stack+Developer;UI+Designer;Coffee+%2B+Code+%3D+Life;Always+Learning+New+Things" />
 </p>
 
 ---
 
-<h2 align="left">🧠 About Me:</h2>
-
-- 💻 Full Stack Developer passionate about building real-world applications  
-- 🎨 متخصص في تصميم واجهات احترافية (UI)  
-- 🚀 بحب أحول الأفكار لمشاريع حقيقية  
-- 📚 بتعلم باستمرار وبطور من نفسي  
-- 🤝 بحب أشتغل على مشاريع وأتعاون مع ناس تانية  
-
----
-
-<h2 align="left">🛠️ Tech Stack:</h2>
-
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-  <!-- Database -->
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-<h2 align="left">📊 GitHub Stats:</h2>
+### 😂 Developer Mood:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
+</p>
+
+---
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="250"/>
+
+### 👨‍💻 About Me:
+
+- 💻 Full Stack Developer (Frontend + Backend)  
+- 🎨 بصمم مواقع بشكل احترافي وجذاب  
+- 🚀 بحول الأفكار لمشاريع حقيقية  
+- ☕ القهوة = كود شغال 😄  
+- 🤝 متاح لأي فرصة أو Collaboration  
+
+---
+
+### 🛠️ Tech Stack:
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman" />
+</p>
+
+---
+
+### 🚀 My Projects:
+
+<p align="center">
+
+<a href="#">
+  <img src="PUT_IMAGE_1" width="300"/>
+</a>
+
+<a href="#">
+  <img src="PUT_IMAGE_2" width="300"/>
+</a>
+
+<a href="#">
+  <img src="PUT_IMAGE_3" width="300"/>
+</a>
+
+</p>
+
+---
+
+### 😎 When My Code Works:
+
+<p align="center">
+  <img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" width="400"/>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
 </p>
 
 ---
 
-<h2 align="left">🔥 Top Languages:</h2>
+### 📫 Connect with me:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<a href="mailto:omaralioffical981@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" width="30"/>
+</a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/github.png" width="30"/></a>
 </p>
 
 ---
 
-<h2 align="left">🎯 Goals:</h2>
+### 🧠 Dev Quote:
 
-- 🔥 Build powerful full stack projects  
-- 📈 Improve my skills continuously  
-- 🌍 Work on real-world applications  
+<p align="center">
+  "First, solve the problem. Then, write the code." 💡
+</p>
 
 ---
 
-<h2 align="left">📫 Connect with me:</h2>
-
-- 📧 Email: omaralioffical981.com  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
