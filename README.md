@@ -1,5 +1,8 @@
-## Hi there 👋
+Hi 👋 I'm Omar Ali  
+🎨 Front-End Developer & UI Designer  
 
+I create modern, responsive, and professional web designs.  
+Always learning and improving my skills 🚀
 <!--
 **Omar-ali-glitch/Omar-ali-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
