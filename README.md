@@ -1,24 +1,23 @@
-<h1 align="center">Hi 👋, I'm Omar Ali</h1>
+<h1 align="center">
+  ✨ 𝑶𝒎𝒂𝒓 𝑨𝒍𝒊 ✨
+</h1>
 
-<h3 align="center">💻 Full Stack Developer | 🎨 UI Designer</h3>
+<h3 align="center">
+  💻 Front-End Developer | 🎨 UI Designer
+</h3>
 
 <p align="center">
-  🚀 I build modern, responsive & clean web apps
+  🚀 Building modern, responsive & clean web experiences
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7C600&center=true&vCenter=true&lines=Full+Stack+Developer;UI+Designer;Coffee+%2B+Code+%3D+Life;Always+Learning+New+Things" />
-</p>
-
----
-
-### 😂 Developer Mood:
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Front-End+Developer;UI+Designer;HTML+%7C+CSS+%7C+JavaScript+%7C+React;I+Love+Clean+Code;Always+Learning" />
 </p>
 
 ---
@@ -27,38 +26,28 @@
 
 ### 👨‍💻 About Me:
 
-- 💻 Full Stack Developer (Frontend + Backend)  
-- 🎨 بصمم مواقع بشكل احترافي وجذاب  
-- 🚀 بحول الأفكار لمشاريع حقيقية  
-- ☕ القهوة = كود شغال 😄  
-- 🤝 متاح لأي فرصة أو Collaboration  
+- 💻 Front-End Developer passionate about building modern UIs  
+- 🎨 I design clean and professional interfaces  
+- 🚀 Turning ideas into real-world projects  
+- ⚡ Skilled in HTML, CSS, JavaScript & React  
+- ☕ Coffee + Code = Happiness 😄  
+- 🤝 Open for freelance & collaboration  
+
+---
+
+### 😂 Dev Mood:
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280"/>
+</p>
 
 ---
 
 ### 🛠️ Tech Stack:
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman" />
-</p>
-
----
-
-### 🚀 My Projects:
-
-<p align="center">
-
-<a href="#">
-  <img src="PUT_IMAGE_1" width="300"/>
-</a>
-
-<a href="#">
-  <img src="PUT_IMAGE_2" width="300"/>
-</a>
-
-<a href="#">
-  <img src="PUT_IMAGE_3" width="300"/>
-</a>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
 </p>
 
 ---
@@ -71,34 +60,28 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 🌐 Connect with me:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-</p>
+  <a href="mailto:omaralioffical981@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Omar%20Ali-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
-</p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Omar%20Ali-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
----
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Omar%20Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-### 📫 Connect with me:
+  <a href="https://www.facebook.com/">
+    <img src="https://img.shields.io/badge/Facebook-Omar%20Ali-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
 
-<p align="center">
-<a href="mailto:omaralioffical981@gmail.com">
-  <img src="https://img.icons8.com/color/48/000000/gmail.png" width="30"/>
-</a>
-<a href="#"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/000000/github.png" width="30"/></a>
-</p>
-
----
-
-### 🧠 Dev Quote:
-
-<p align="center">
-  "First, solve the problem. Then, write the code." 💡
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-Omar%20Ali-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
